@@ -1,0 +1,54 @@
+{
+	"users": [{
+			"id": 1,
+			"username": "RAM",
+			"age": "20",
+			"dob": "01-10-1998",
+			"height": "5.9'",
+			"weight": "79 KG",
+			"phone": "123456789",
+			"email": "ram@xyz.com",
+			"address": "Bangalore"
+
+
+		},
+		{
+			"id": 2,
+			"username": "SURESH",
+			"age": "24",
+			"dob": "02-03-1995",
+			"height": "5.6'",
+			"weight": "70 KG",
+			"phone": "1278956452",
+			"email": "suresh@abc.com",
+			"address": "chennai"
+		},
+		{
+			"id": 3,
+			"username": "SANJAY",
+			"age": "25",
+			"dob": "01-09-1996",
+			"height": "5.11'",
+			"weight": "85 KG",
+			"phone": "9876543123",
+			"email": "sanjay@xyz.com",
+			"address": "Hyderabad"
+		}
+	],
+	"visited": [{
+			"id": 1,
+			"userId": 1,
+			"job": "Plumber"
+		},
+		{
+			"id": 2,
+			"userId": 2,
+			"job": "developer"
+		},
+		{
+			"id": 3,
+			"userId": 3,
+			"job": "Manager"
+		}
+	]
+}

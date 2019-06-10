@@ -1,0 +1,29 @@
+/* You can add global styles to this file, and also import other style files */
+.glyphicon-remove{
+    color:red;
+}
+.marT-20{
+ margin-top: 20px;
+} 
+.marR-20{
+    margin-right: 20px;
+}
+.marL-20{
+    margin-right: 20px;
+}
+.padL{
+    padding-left: 15px;
+}
+th{
+    color:white;
+}
+.flrgt{
+    float : right;
+}
+
+.bgblck{
+    background-color: black;
+}
+
+.editPopup .modal-dialog {position:absolute;top:69%;right:7%;}
+
